@@ -21,6 +21,7 @@ namespace IOT_3_Assignment3.Birds
 			Egg[] chicken = new Egg[numEggs];
 			for (int c = 0; c < numEggs; c++)
 			{
+				// this array object returns brown eggs with the size beteen 2 and 4 
 				chicken[c] = new Egg(Rand.Next(2,4), Egg.Colors.brown);
 			}
 			return chicken;
@@ -35,6 +36,7 @@ namespace IOT_3_Assignment3.Birds
 			Egg[] ostrich = new Egg[numEggs];
 			for (int o = 0; o < numEggs; o++)
 			{
+				// this array object returns speckled eggs with the size beteen 10 and 15 
 				ostrich[o] = new Egg(Rand.Next(10, 15), Egg.Colors.speckled);			
 			}
 			return ostrich;

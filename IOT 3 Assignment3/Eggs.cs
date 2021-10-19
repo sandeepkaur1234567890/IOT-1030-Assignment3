@@ -20,10 +20,17 @@
 		}
 	}
 
-	/*
-	class BrokenEgg : Egg
-	{
-		// TODO: Implement for Task 2
+    class BrokenEgg : Egg
+    {
+        // TODO: Implement for Task 2
+        public BrokenEgg(double size, Colors color) : base(size, color)
+        {
+        }
+
+		// this method reflect the broken eggs
+		public override string ToString()
+		{
+			return $"A {Size:0.0}cm {Color} egg that is broken";
+		}
 	}
-	*/
 }
