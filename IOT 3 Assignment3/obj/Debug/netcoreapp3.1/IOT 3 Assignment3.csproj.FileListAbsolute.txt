@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Assignment3\IOT 3 Assignment3\bin\Debug\netcoreapp3.1\IOT 3 Assignment3.exe
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Assignment3\IOT 3 Assignment3\bin\Debug\netcoreapp3.1\IOT 3 Assignment3.deps.json
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Assignment3\IOT 3 Assignment3\bin\Debug\netcoreapp3.1\IOT 3 Assignment3.runtimeconfig.json
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Assignment3\IOT 3 Assignment3\bin\Debug\netcoreapp3.1\IOT 3 Assignment3.runtimeconfig.dev.json
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Assignment3\IOT 3 Assignment3\bin\Debug\netcoreapp3.1\IOT 3 Assignment3.dll
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Assignment3\IOT 3 Assignment3\bin\Debug\netcoreapp3.1\IOT 3 Assignment3.pdb
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Assignment3\IOT 3 Assignment3\obj\Debug\netcoreapp3.1\IOT 3 Assignment3.csprojAssemblyReference.cache
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Assignment3\IOT 3 Assignment3\obj\Debug\netcoreapp3.1\IOT 3 Assignment3.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Assignment3\IOT 3 Assignment3\obj\Debug\netcoreapp3.1\IOT 3 Assignment3.AssemblyInfo.cs
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Assignment3\IOT 3 Assignment3\obj\Debug\netcoreapp3.1\IOT 3 Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Assignment3\IOT 3 Assignment3\obj\Debug\netcoreapp3.1\IOT 3 Assignment3.dll
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Assignment3\IOT 3 Assignment3\obj\Debug\netcoreapp3.1\IOT 3 Assignment3.pdb
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Assignment3\IOT 3 Assignment3\obj\Debug\netcoreapp3.1\IOT 3 Assignment3.genruntimeconfig.cache
